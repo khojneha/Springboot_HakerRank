@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hackerrank.eshopping.product.dashboard.controller.ProductsControllerTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.993 s <<< FAILURE! - in com.hackerrank.eshopping.product.dashboard.controller.ProductsControllerTest
+findProductsByCategoryAndAvailability(com.hackerrank.eshopping.product.dashboard.controller.ProductsControllerTest)  Time elapsed: 0.157 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.hackerrank.eshopping.product.dashboard.controller.ProductsControllerTest.findProductsByCategoryAndAvailability(ProductsControllerTest.java:1035)
+

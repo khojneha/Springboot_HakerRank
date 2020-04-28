@@ -1,0 +1,6 @@
+com\hackerrank\eshopping\product\dashboard\exception\ResourceNotFoundException.class
+com\hackerrank\eshopping\product\dashboard\exception\BadRequestException.class
+com\hackerrank\eshopping\product\dashboard\Application.class
+com\hackerrank\eshopping\product\dashboard\controller\ProductsController.class
+com\hackerrank\eshopping\product\dashboard\model\Product.class
+com\hackerrank\eshopping\product\dashboard\repository\ProductRepository.class
